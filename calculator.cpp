@@ -29,3 +29,12 @@ int lcm(int a, int b) { return (a * b) / gcd(a, b); }
 int random(int min, int max) {
     return rand() % (max - min + 1) + min;
 }
+
+double power(double base, int exponent) {
+    if (exponent == 0) return 1;
+    double result = base;
+    for (int i = 1; i < abs(exponent); ++i) {
+        result *= base;
+    }
+    return (exponent > 0) ? result : 1 / result;
+}

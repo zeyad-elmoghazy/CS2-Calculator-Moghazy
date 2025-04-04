@@ -6,4 +6,4 @@ int factorial(int n);
 int gcd(int a, int b);
 int lcm(int a, int b);
 int random(int min, int max);
-
+double power(double base, int exponent);
