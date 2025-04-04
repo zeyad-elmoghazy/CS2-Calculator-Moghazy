@@ -1,0 +1,3 @@
+/Users/zeezo/Desktop/CS2-Calculator-Moghazy/CMakeFiles/test.dir
+/Users/zeezo/Desktop/CS2-Calculator-Moghazy/CMakeFiles/edit_cache.dir
+/Users/zeezo/Desktop/CS2-Calculator-Moghazy/CMakeFiles/rebuild_cache.dir
